@@ -1,0 +1,22 @@
+Work status
+
+Date: 21/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 9.27 AM
+Logout Time: 6.15 PM
+Actual Hrs:  8.16 Hr
+Productive Hrs:  8.07 Hr
+-----------------------------------------
+
+Task Done:-
+-Creating Calculator in Model View Controller.
+-Implementing the concept of Reflection and Custom Attribute.
+-Study and Implementation of DDL and DML Queries.
+
+
+CSS:-
+-Implemented CSS and HTML on Image Gallery.
+
+-----------------------------------------
+Next day's Task
+-Revision of c#

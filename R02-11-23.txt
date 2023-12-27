@@ -1,0 +1,16 @@
+Work Status
+
+Date: 02/11/2023
+Name:Sonawane Pavan H.
+Login Time:10.22 am
+Logout Time:06.55 pm
+Actual Hrs:8.40 hr
+Productive Hrs:8:07 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Create a UI for API student_Course_Enrollment.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continuing With React

@@ -1,0 +1,17 @@
+Work Status
+
+Date: 28 / 08 / 2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.01 am
+Logout Time: 6.40 pm
+Actual Hrs:  8.30 hr
+Productive Hrs:  8.05 hr
+---------------------------------------- -
+Task Done
+---------------- - c#---------------------
+
+-Repository  And Services Creation in Working Project.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Remeaning Services Completion.

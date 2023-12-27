@@ -1,0 +1,23 @@
+Work status
+
+Date: 06/07/2023
+Name: Pavan Harishchandra Sonawane
+Login Time: 9.51 am
+Logout Time: 6.45 pm
+Actual Hrs:  8.54 hr
+Productive Hrs:  8.00 hr
+-----------------------------------------
+
+Task Done
+-Make one interface and 2 Class and Implement them.
+-Make two interface and 1 Class and Implement them.
+-Ternary Operator Program.
+-Partial Class.
+-Create one interface make three method print sum, exponential power and display the value and WriteLine of your code.
+-Study of Normalization.
+1)First normal form
+2)Second normal form
+3)Third Normal form
+-----------------------------------------
+next day's Task
+-Problem on Normalization.

@@ -1,0 +1,18 @@
+Work status
+
+Date: 10/10/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.43 am
+Logout Time: 07.12 pm
+Actual Hrs:  8.31 hr
+Productive Hrs:  8:06 hr
+-----------------------------------------
+Task Done
+-Requirement Gathering for Authenticatin and Authorization In MVC
+-Implementation of Authorization And Authentication on MVC model pop-up project.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Implemetation of cascading (State, City)on MVC model pop-up project.
+- Continue with this project.

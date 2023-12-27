@@ -1,0 +1,19 @@
+Work Status
+
+Date: 03/11/2023
+Name:Sonawane Pavan H.
+Login Time:10.06 am
+Logout Time:06.35 pm
+Actual Hrs:8.38 hr
+Productive Hrs:8:08 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+- Reading a Concept of Concurrency In Asp.net and perform Optimistic Concurrency Practically.
+- Reading ACID(Automicity, Consistancy,Isolation,Durability)Property.
+- Rivision Of Oops Concept.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+- Read Concept of Asp.net and React-Js.
+-Continuing With React

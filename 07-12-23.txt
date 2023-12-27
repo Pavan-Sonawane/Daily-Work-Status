@@ -1,0 +1,21 @@
+Work Status
+-----------------------------------------------
+
+Date: 06/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.07  am
+Logout Time:06.40 pm
+Actual Hrs:08.50 hr
+Productive Hrs:08:08 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Successfully Implemented the authentication in the UI. 
+-Started with the Role Based Authorization in the ASP.net API for Admin and Employee Role.
+
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with the project on role based Authorization 
+

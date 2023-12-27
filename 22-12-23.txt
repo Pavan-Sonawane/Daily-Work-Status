@@ -1,0 +1,20 @@
+========================================================
+Work Status
+========================================================
+Date: 22/12/2023
+Name: Sonawane Pavan H.
+Login Time:09.33  am
+Logout Time:06:10 pm
+Actual Hrs:08.30 hr
+Productive Hrs:08:00 hr
+========================================================
+Task Done
+========================================================
+-Implmented the Repository.
+-Implemented some Services and Controllers in the Project.
+-API testing On completed Modules.
+-Project Estimeted time Discussion with @Shivani mam
+========================================================
+Next Day Task
+========================================================
+-Continuing With ongoing Project.

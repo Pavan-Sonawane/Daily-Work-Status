@@ -1,0 +1,19 @@
+
+Work status
+
+Date: 22/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 09.52 am
+Logout Time: 7.15 pm
+Actual Hrs:  9.20 hr
+Productive Hrs:  8.29 hr
+-----------------------------------------
+Task Done
+-----------------c#---------------------
+-Test on MVC crud operation using jquery and ajax,	 		
+-Perform MVC crud operation using jquery and ajax on one to many table.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Study on onion architecture. 

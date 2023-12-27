@@ -1,0 +1,17 @@
+Work Status
+
+Date: 20/09/2023
+Name:Sonawane Pavan Harishchandra
+Login Time: 10.22 am
+Logout Time: 07.05 pm
+Actual Hrs:  8.21 hr
+Productive Hrs:  8:08 hr
+-----------------------------------------
+Task Done
+----------------- Asp.Net Core MVC ---------------------
+-Creating MVC Project On Problem Statemenet which are given in privious Tests(Student,Course,Enrollement)
+-Creating MVC Project On Problem Statemenet which are given in privious Tests(User,Book,BorrowedBook)
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Creating MVC Project On Problem Statemenet which are given in privious Tests(User,Book,BorrowedBook)

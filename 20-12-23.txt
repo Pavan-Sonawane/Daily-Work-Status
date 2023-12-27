@@ -1,0 +1,18 @@
+========================================================
+Work Status
+========================================================
+Date: 20/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.20  am
+Logout Time:07:02 pm
+Actual Hrs:08.45 hr
+Productive Hrs:08:00 hr
+========================================================
+Task Done
+========================================================
+-Done Some Changes Room Booking Model in the previeously developed Project Hotel Management System API as per the UI Requirments.
+-Done Theory of Azure Virtual Machine,Azure Kubernetes, With Documentation and Tutorial of the Azure Devops.
+========================================================
+Next Day Task
+========================================================
+-Continuing With Azure devops and the ongoing Project Hotel Mgnt.

@@ -1,0 +1,17 @@
+Work Status
+
+Date: 08/09/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.08 am
+Logout Time: 5.30 pm
+Actual Hrs:  6.30 hr
+Productive Hrs:  8.05 hr
+-----------------------------------------
+Task Done
+---------------- - c#---------------------
+-Identifying and fixing issues and completing the project.
+-Practicing Onion Architecture.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+- Test

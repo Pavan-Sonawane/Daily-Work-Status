@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------------------
+Work Status
+-------------------------------------------------------------------------------------------
+Date: 26/12/2023
+Name: Pavan Sonawane
+Login Time:10:04  am
+Logout Time:06:35 pm
+Actual Hrs:08.40 hr
+Productive Hrs:08:03 hr
+
+-------------------------------------------------------------------------------------------
+Task Done
+-------------------------------------------------------------------------------------------
+*****************Live Project***************
+-Folder Strcture Understanding of UI 
+
+****************Training Task***************
+-Implemented the Services and The controller for the Movie Direction module of the Project Management System.
+-Started With UI for the Project in React.
+-------------------------------------------------------------------------------------------
+Next Day Task
+-------------------------------------------------------------------------------------------
+-Continue with the Project.
+
+
+

@@ -1,0 +1,38 @@
+Work status
+
+Date: 11/08/2023
+Name: Pavan Harishchandra Sonawane
+Login Time: 10.01 am
+Logout Time: 6.55 pm
+Actual Hrs:  8.54 hr
+Productive Hrs:  8.08 hr
+-----------------------------------------
+
+Task Done
+------------------ C# -------------------
+-Asynchronous
+
+------------JavaScript (Practice)-----------
+-Array Method
+-Date (Methods, Format)
+-Math Objects
+-Condition Statements
+-Looping Statements
+-Set
+-Map
+
+-------------Next day's Task-----------------
+1)JavaScript
+-Regular Expressions
+-Error and Exception Handling
+-This
+-BOM
+-DOM
+-Callbacks
+-Async
+-Promise
+
+2)JQuery
+-Features
+-Selectors
+-Methods

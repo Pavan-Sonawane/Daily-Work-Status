@@ -1,0 +1,19 @@
+Work Status
+
+Date: 26/09/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.39 am
+Logout Time:07.30 pm
+Actual Hrs: 08.05 hr
+Productive Hrs:08:45 hr
+-----------------------------------------
+Task Done
+-----------------React JS----------------
+-Phases of React Life Cycle.
+-Study Of Routing.
+-Implementing Class Componant.
+-Implementing Browser Routing in the Application.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Practicing Routing.

@@ -1,0 +1,26 @@
+Work status
+
+Date: 16/08/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.14 am
+Logout Time: 6.35 pm
+Actual Hrs:  8.00 hr
+Productive Hrs:  8.10 hr
+-----------------------------------------
+
+Task Done
+JS(Practice)
+1) Loops concept
+2) Maps
+3) Errors
+4) RegExp
+5) Function Concepet
+
+JQUERY
+1) Features
+2) Selectors
+3) Methods
+			
+-----------------------------------------
+Next Day's Task
+Creating a MVC structure With Model PopUp

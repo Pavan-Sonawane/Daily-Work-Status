@@ -1,0 +1,17 @@
+Work Status
+
+Date: 29/09/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.12 am
+Logout Time: 04.35 pm
+Actual Hrs:  6.08 hr
+Productive Hrs:  5:23 hr
+-----------------------------------------
+Task Done
+-----------------React JS----------------
+-Implementing Bank Management System
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+- Continue with Test......

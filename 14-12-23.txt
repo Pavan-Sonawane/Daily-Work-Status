@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+
+Date: 14/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.24  am
+Logout Time:07.40 pm
+Actual Hrs:08.44 hr
+Productive Hrs:08:08 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Added Notification functionality using react tostify.
+-Implemented Services and the Controller for the Event Module.
+-Tested The API for the Event Insertation for Perticular User
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Creating UI for Event in the ReactJs.
+-Project Completion and Documentation in Word
+
+

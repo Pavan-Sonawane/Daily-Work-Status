@@ -1,0 +1,29 @@
+Work status
+
+Date: 1/08/2023
+Name: Sonawane Pavan Harisichandra
+Login Time: 10.24 am
+Logout Time: 7.16 pm
+Actual Hrs:  8.55 hr
+Productive Hrs:  8.09 hr
+-----------------------------------------
+
+
+Task Done
+------------------ C# ---------------------------
+-EF Core
+1)Study about EF Core Concept.
+2)Create table through EF core and perform operation update delete add.
+
+------------------ Database ---------------------------
+-Create database and tables on sql server.
+-Study and perform primary key , foregin key, inner join, Left join, Right join, Full Join.
+
+------------------ Javascript ---------------------------
+-Creating function  and call the function and Show the Person data when user Tap on click Button 
+
+-----------------------------------------
+next day's Task
+-Read ASP.net core basics
+
+-

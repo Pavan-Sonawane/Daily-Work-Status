@@ -1,0 +1,17 @@
+Work Status
+
+Date: 26/10/2023
+Name:Sonawane Pavan H.
+Login Time:10.19 am
+Logout Time:06.50 pm
+Actual Hrs:8.02 hr
+Productive Hrs:8:30 hr
+-----------------------------------------
+Task Done
+-Reading a Concept of MAterial UI And Implement it for Creating a Simple Form.
+-Starting a Poject of Product using React_Redux toolkit.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Countinue with Material UI.
+-Create a attractive UI for API products.

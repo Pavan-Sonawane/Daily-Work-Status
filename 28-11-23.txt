@@ -1,0 +1,20 @@
+*Work Status*
+-----------------------------------------------
+-----------------------------------------------
+Date: 28/11/2023
+Name: Sonawane Pavan H.
+Login Time:10.03  am
+Logout Time:06.45 pm
+Actual Hrs:08.37 hr
+Productive Hrs:08:09 hr
+-----------------------------------------
+*Task Done*
+------------------------------------------
+-Attending the session of Debugging.
+-Started with The UI  For Hotel Management System.
+
+-----------------------------------------
+*Next Day's Task*
+-----------------------------------------
+-Continuing with UI for Hotel Management System.
+-Session On Microsoft Azure. 

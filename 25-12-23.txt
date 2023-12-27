@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------------------
+Work Status
+-------------------------------------------------------------------------------------------
+Date: 25/12/2023
+Name: Pavan Sonawane
+Login Time:10:04  am
+Logout Time:06:45 pm
+Actual Hrs:08.40 hr
+Productive Hrs:08:05 hr
+
+-------------------------------------------------------------------------------------------
+Task Done
+-------------------------------------------------------------------------------------------
+******************Live Project****************
+- Discussion with @Umang Sir regrading QRRelays setup.
+- Troublrshoting Errors during the Project Run.
+
+*****************Training Task****************
+-Implemented the Services and The controller for the Movie Direction module of the Project Managemnet System.
+-------------------------------------------------------------------------------------------
+Next Day Task
+-------------------------------------------------------------------------------------------
+-Continue with the Project.
+
+
+

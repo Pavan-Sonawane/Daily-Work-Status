@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+
+Date: 30/11/2023
+Name:Sonawane Pavan H.
+Login Time:10.11  am
+Logout Time:06.55 pm
+Actual Hrs:08.46 hr
+Productive Hrs:08:13 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Continuing with the project attendence Management system .
+Successfully Performed the CRUD opertion on 
+-UserType Table.
+-User Table 
+-JWT token Generation by inserting the userId and the Password of the User
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with the project. 

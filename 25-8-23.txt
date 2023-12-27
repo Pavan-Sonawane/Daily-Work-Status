@@ -1,0 +1,22 @@
+
+Work Status
+
+Date: 25/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.10 am
+Logout Time: 6.50 pm
+Actual Hrs:  8.57 hr
+Productive Hrs:  8.06 hr
+-----------------------------------------
+Task Done
+-----------------c#---------------------
+- Starts Project of CustomerSupplierChain in Onion Architecture
+- Requirement Gathering for Project.
+- Create Necessary Models For Project With One to one, one to many , many to one relationship.
+- Concept Of View Model In the onion Architecture.
+- Concept Of Authorization And Authentication.
+- Concept Of Identity.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Implementing View Model In The Current Working Project. 

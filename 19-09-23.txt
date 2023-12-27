@@ -1,0 +1,17 @@
+Work status
+
+Date: 19/09/2023
+Name: Sonawnae Pavan Harishchandra
+Login Time: 10.04 am
+Logout Time: 6.30 pm
+Actual Hrs:  8.30 hr
+Productive Hrs:  8.05 hr
+-----------------------------------------
+
+Task Done
+-----------------c#---------------------
+-JS basic and advanced concept reading and practice. 
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Implementation of Course Management System In MVC

@@ -1,0 +1,18 @@
+Work Status
+
+Date: 15/09/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.19 am
+Logout Time: 07.10 pm
+Actual Hrs:  8.10 hr
+Productive Hrs:  8:51 hr
+-----------------------------------------
+Task Done
+---------------- - c#---------------------
+-Implementing Authorization and Authentication on Project
+-Study of Filter,Linq.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+- Study on European Computer Manufacturers Association Script.

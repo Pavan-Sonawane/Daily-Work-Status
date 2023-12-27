@@ -1,0 +1,24 @@
+Work status
+
+Date: 31/07/2023
+Name: Sonawnae Pavan Harishchandra
+Login Time: 10.04 am
+Logout Time: 7.05 pm
+Actual Hrs:  9.01 hr
+Productive Hrs:  8.14 hr
+-----------------------------------------
+
+
+Task Done
+------------------ C# ---------------------------
+-EF Core
+1)Study about EF Core.
+2)Create table through EF core and perform operation update delete add.
+
+-Create database and tables on sql server.
+-Study and perform primary key , foregin key, inner join.
+
+-----------------------------------------
+next day's Task
+-Read ASP.net core basics
+-

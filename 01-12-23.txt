@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+
+Date: 01/12/2023
+Name:Sonawane Pavan H.
+Login Time:10.03  am
+Logout Time:06.50 pm
+Actual Hrs:08.46 hr
+Productive Hrs:08:03 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Continuing with the project attendence Management system .
+Successfully Performed the CRUD opertion on 
+-Leave Request Table
+-Attendence Management 
+-JWT token Generation by inserting the userId and the Password of the User
+-Successfully Done Authentacation and Authorization using the JWT token in the Postman and on the Swagger also.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with the project. 

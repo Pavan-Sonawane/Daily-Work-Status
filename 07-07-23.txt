@@ -1,0 +1,22 @@
+Work status
+
+Date: 07/07/2023
+Name: Sonawnae Pavan Harishchandra
+Login Time: 10.10 am
+Logout Time: 7.10 pm
+Actual Hrs:  8.25 hr
+Productive Hrs:  8.20 hr
+-----------------------------------------
+
+Task Done
+-Create a program in-
+-List
+-Arraylist
+-Sorted list
+-Dictionary
+-Stack
+-Queue
+-----------------------------------------
+Next day's Task
+-Create a portfolio in html
+-Learn html and its tags

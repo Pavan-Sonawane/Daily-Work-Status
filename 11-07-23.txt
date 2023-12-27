@@ -1,0 +1,25 @@
+Work status
+
+Date: 11/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 09.39 am
+Logout Time: 6.45 pm
+Actual Hrs:  9.06 hr
+Productive Hrs:  8.00hr
+-----------------------------------------
+
+
+Task Done
+---Create a program in---
+-Function Delegate
+-Action Delegate
+-Predicate Delegate
+-Anonymous Delegate
+-Event
+-Covarience and Contravarience
+-Abstraction
+-Encapsulation
+-----------------------------------------
+Next day's Task
+-Create a registration form in html
+-Draw a flowchart for fibonacci and odd numbers addition up to n.

@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+
+Date: 29/11/2023
+Name:Sonawane Pavan H
+
+Login Time:10.05  am
+Logout Time:06.50 pm
+Actual Hrs:08.40 hr
+Productive Hrs:08:15 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Get requirement gathering on WebAPI project.
+-Discuss with the trainer about the new project task.
+-Create a WebAPI for attendence management system.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+
+-Continue with the project.

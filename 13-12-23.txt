@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+
+Date: 13/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.28  am
+Logout Time:07.10 pm
+Actual Hrs:08.44 hr
+Productive Hrs:08:08 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Done Call with Keyur and Umangbhai For Project KT.
+-Solved The Conflict in the attendence modele of the Project Attendence Management System.
+-Established relations between Old entity and the new entity in the Projet. 
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Creating Services and the Controller for the Event Module.
+-Cointinuing With Adding Event to the Empoloyee DashBoard.
+
+

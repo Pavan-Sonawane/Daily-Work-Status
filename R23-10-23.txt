@@ -1,0 +1,17 @@
+Work Status
+
+Date: 23/10/2023
+Name:Sonawane Pavan H.
+Login Time: 10.48 am
+Logout Time: 07.30 pm
+Actual Hrs:  8.52 hr
+Productive Hrs:  8:23 hr
+-----------------------------------------
+Task Done
+
+-Study of Crud Operation In React using Redux And 
+Implement R-Read operation on Existing Employee Department Project 
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with Create, Update, Delete Operation.

@@ -1,0 +1,15 @@
+Work Status
+
+Date: 27/10/2023
+Name:Sonawane Pavan H.
+Login Time:10.14 am
+Logout Time:07.05 pm
+Actual Hrs:8.40 hr
+Productive Hrs:8:00 hr
+-----------------------------------------
+Task Done
+-Create a UI for Products API using Redux toolkit,Material UI.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with React

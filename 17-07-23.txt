@@ -1,0 +1,21 @@
+Work Status
+
+Date: 17/07/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.08 am
+Logout Time: 6.43 pm
+Actual Hrs:  8.37 hr
+Productive Hrs:  8.00 hr
+-----------------------------------------
+
+
+Task Done
+C#
+-StreamIO
+
+-Web Services
+
+
+-----------------------------------------
+Next day's Task
+-Draw a flowchart for the pattern 1 1 2 1 2 3 1 2 3 4. (if n = 4)

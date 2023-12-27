@@ -1,0 +1,23 @@
+***** Work Status ******
+
+Date: 3/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.08 am
+Logout Time: 6.56pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.12 hr
+-----------------------------------------
+Task Done
+------------------ C# -------------------
+-MVC
+1)Implementing Crude Operation in MVC
+2)Filters in Web API
+-------------------BootStrap-------------
+1)creating category page in Website
+2)Study classes in The BootStrap
+-------------------JavaScript-------------
+1)Events
+2)String Function
+-----------------------------------------
+next day's Task
+-Creating Responsive Shopping Website in BootStrap

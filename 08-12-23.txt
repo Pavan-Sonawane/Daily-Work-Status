@@ -1,0 +1,21 @@
+Work Status
+-----------------------------------------------
+
+Date: 08/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.24  am
+Logout Time:07.10 pm
+Actual Hrs:08.50 hr
+Productive Hrs:08:05 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Successfully Implemented the Role Based Authorization in the API. 
+-Started with the Role Based Authorization in the UI
+
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with the project on role based Authorization  in the UI.
+

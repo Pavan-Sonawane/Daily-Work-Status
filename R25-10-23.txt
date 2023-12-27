@@ -1,0 +1,16 @@
+Work Status
+
+Date: 25/10/2023
+Name:Sonawane Pavan H.
+Login Time:10.03 am
+Logout Time:06.40 pm
+Actual Hrs:8.52 hr
+Productive Hrs:8:05 hr
+-----------------------------------------
+Task Done
+-Successfully Implemented CRUD operation in React using Redux on Department and Employee table.
+-Getting Started With Material UI
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Create a UI for multiple tables of Web API.

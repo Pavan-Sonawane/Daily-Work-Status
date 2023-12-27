@@ -1,0 +1,18 @@
+Work Status
+
+Date: 22/09/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.30 am
+Logout Time:07.15 pm
+Actual Hrs: 08.45 hr
+Productive Hrs:08:05 hr
+-----------------------------------------
+Task Done
+----------------- Asp.Net Core MVC ---------------------
+ 
+-Study about ES-6, Js
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Study about ES-6

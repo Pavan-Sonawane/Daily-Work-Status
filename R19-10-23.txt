@@ -1,0 +1,18 @@
+Work Status
+
+Date: 19/10/2023
+Name: Sonawane Pavan H
+Login Time: 10.24 am
+Logout Time: 07.00 pm
+Actual Hrs:  8.40 hr
+Productive Hrs:  8:20 hr
+-----------------------------------------
+Task Done
+
+-Study of Redux with React Component.
+-Implementing the redux with react.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-continuing with Implamantaion of redux

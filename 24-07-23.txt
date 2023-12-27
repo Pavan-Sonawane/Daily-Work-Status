@@ -1,0 +1,28 @@
+Work status
+
+Date: 24/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.00 AM
+Logout Time: 7.00 PM
+Actual Hrs:  8.35 Hr
+Productive Hrs:  8.07 Hr
+-----------------------------------------
+Task Done:-
+--Singleton (Thread)
+
+-Singleton (Lazy Design Pattern)
+
+- Implementation of Sql Queries.
+
+-Create table , database
+-Insert
+-Update
+-Delete
+-Rename
+-Drop
+-Delete
+-Alter
+-Truncate
+-----------------------------------------
+Next day's Task
+-Draw a Flowchart for this output 1 1 2 1 1 2 3 2 1 1 2 3 4 3 2 1

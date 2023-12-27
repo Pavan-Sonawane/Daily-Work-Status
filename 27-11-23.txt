@@ -1,0 +1,19 @@
+*Work Status*
+-----------------------------------------------
+-----------------------------------------------
+Date: 27/11/2023
+Name: Sonawane Pavan H.
+Login Time:10.14  am
+Logout Time:06.53 pm
+Actual Hrs:08.37 hr
+Productive Hrs:08:09 hr
+-----------------------------------------
+*Task Done*
+------------------------------------------
+-Done with Git and Git hub merge Conflict for the projects.
+-Started with the API for  Hotel Management System. 
+
+-----------------------------------------
+*Next Day's Task*
+-----------------------------------------
+-Completing the for API and  starting with UI for Hotel Management System

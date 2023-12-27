@@ -1,0 +1,16 @@
+Work Status
+
+Date: 17/10/2023
+Name: Sonawane Pavan H.
+Login Time: 10.48 am
+Logout Time: 07.15 pm
+Actual Hrs:  8.40 hr
+Productive Hrs:  8:02hr
+-----------------------------------------
+Task Done
+-Read And Implementation of UseState,UseEffect Hook Using Browser Router
+-Successfully Fetch an API in react app
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with a Concepts Of ReactJS.

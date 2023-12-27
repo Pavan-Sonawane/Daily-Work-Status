@@ -1,0 +1,19 @@
+Work Status
+
+Date: 23/11/2023
+Name: Sonawane Pavan H.
+Login Time:10.10 am
+Logout Time:07.03 pm
+Actual Hrs:08.43 hr
+Productive Hrs:08:00 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Studied What is Git and Github.
+-Successfully Implemented the Git GUI and the git Bash.
+-Successfully estaablished the connection between  Git and Github.
+-Uploaded Projects Using GitGUI and the Gitbash. 
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Understanding the working of git and git hub int the VScode.

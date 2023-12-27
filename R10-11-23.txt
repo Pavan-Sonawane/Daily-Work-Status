@@ -1,0 +1,16 @@
+Work Status
+
+Date: 10/11/2023
+Name: Sonawane Pavan H.
+Login Time:09.02 am
+Logout Time:02.10 pm
+Actual Hrs:05.10 hr
+Productive Hrs:05:10 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Started With The Project in Onion Architecture for Car Reasale model.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Combine Test On .net and React.

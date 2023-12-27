@@ -1,0 +1,17 @@
+***** Work Status ******
+
+Date: 4/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.13 am
+Logout Time: 6.55pm
+Actual Hours:  8.35 hr
+Productive Hours :  8.09 hr
+-----------------------------------------
+Task Done
+------------------ C# -------------------
+-MVC
+1)Implementing Crude Operation in MVC.
+2)Implementing one to one and one to many relation in MVC
+-----------------------------------------
+-Next day's Task
+-Study Of EF-Core

@@ -1,0 +1,22 @@
+Work status
+
+Date: 05/07/2023
+Name: Pavan Harishchandra Sonawane
+Login Time: 9.45 am
+Logout Time: 6.45 pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.15 hr
+-----------------------------------------
+
+Task Done
+-Practice C# programs on the topic. 
+1)Implicit Datatype 
+2)Explcit Datatype.
+3)Nullable datatype.
+4)Anonymous Type.
+-Value Type and Reference Type
+-Study of Normalization
+
+-----------------------------------------
+next day's Task
+-Study basics of C#. 

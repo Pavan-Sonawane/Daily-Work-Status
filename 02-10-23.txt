@@ -1,0 +1,18 @@
+Work Status
+
+Date: 02/10/2023
+Name: Sonawane Pavan H
+Login Time: 10.41 am
+Logout Time: 07.05 pm
+Actual Hrs:  8.56 hr
+Productive Hrs:  8:08 hr
+-----------------------------------------
+Task Done
+----------------- Web API ----------------
+-Testing The All the Functionality of  Banking Management System Project In Web API (Onion Architecture).
+-Implementing New Condition Transfer Amount One Account To Another Account.
+-Reading Asp.net core, web api Topics.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+- Requirement Gathering for MVC Application To perform Authentication And Authorization with model Popup

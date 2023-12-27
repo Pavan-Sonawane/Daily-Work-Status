@@ -1,0 +1,21 @@
+Work status
+
+Date: 19/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.05 am
+Logout Time: 6.58 pm
+Actual Hrs:  8.45 hr
+Productive Hrs:  8.24 hr
+-----------------------------------------
+
+
+Task Done
+-Assignment
+1)Ctreat a custom attribute file & check the method & object.
+2)Create a program in which you have to check method overloading and overriding and create a dictionary and access it.
+
+
+			
+-----------------------------------------
+Next Day's Task
+-Create structure of page using html and css.

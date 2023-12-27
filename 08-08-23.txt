@@ -1,0 +1,19 @@
+**** Work Status *****
+
+Date: 08/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 09:55 Am
+Logout Time: 6.45pm
+Actual Hours:  8.35 hr
+Productive Hours :  8.05 hr
+-----------------------------------------
+Task Done
+------------------ C# -------------------
+-MVC
+1)Implementing Crude one to many and many to one Operation in MVC.
+
+-WEB API
+1)Web API Methods(GET,POST,PUT,DELETE,HEAD,OPTIONS)
+2)Creating models and applying migrations using EF-CORE in WEB API
+-------------Next day's Task-----------------
+-Implementing many to many  relation in EF-Core mvc

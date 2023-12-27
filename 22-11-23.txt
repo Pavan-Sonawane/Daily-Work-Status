@@ -1,0 +1,17 @@
+Work Status
+
+Date: 22/11/2023
+Name:Sonawane Pavan H.
+Login Time:10.14 am
+Logout Time:07.02 pm
+Actual Hrs:08.55 hr
+Productive Hrs:08:03 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Successfully Completed CRUD operation of all Tables in frontend. 
+-Also Completed All three Condition in Frontend.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Create a Attractive UI for This Application.

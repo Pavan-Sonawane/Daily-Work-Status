@@ -1,0 +1,20 @@
+**** Work Status *****
+
+Date: 09/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10:05 Am
+Logout Time: 6.55 Pm
+Actual Hours:  8.35 hr
+Productive Hours :  8.10 hr
+-----------------------------------------
+Task Done
+------------------ C# -------------------
+-WEB API
+1)Implementation of CRUDE operation In WEB API
+2)Study Of Thread Concept
+------------------JavaScript-------------------
+1)Form Validation(Basic Validation, Data Format Validation).
+2)Concept of Array(By Using:Literal, Constructor,New Keyword)
+3)Concept Of Set
+-------------Next day's Task-----------------
+-Implementing of custom validation on  Registration Form

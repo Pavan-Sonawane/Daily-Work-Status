@@ -1,0 +1,20 @@
+========================================================
+Work Status
+========================================================
+Date: 21/12/2023
+Name: Sonawane Pavan H.
+Login Time:09.45  am
+Logout Time:06:20 pm
+Actual Hrs:08.45 hr
+Productive Hrs:08:00 hr
+========================================================
+Task Done
+=========================================================
+-Done Requirment Gathering For the Project Movie Mgnt System assigned by @Shivani Mam
+-Requirment Gathering Review by @shivani Mam
+-Done Project setup and established realtions between entities.
+-Successfully Executed the Migrations for the given Project.
+========================================================
+Next Day Task
+========================================================
+-Continuing With ongoing Project.

@@ -1,0 +1,18 @@
+Work Status
+
+Date: 23/11/2023
+Name: Sonawane Pavan H.
+Login Time:10.20 am
+Logout Time:07.08 pm
+Actual Hrs:08.43 hr
+Productive Hrs:08:00 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Create a Documentation File For this Project.
+-Successfully Completed All Operation Of Product Management Project.
+-Create A Attractive UI For this Project.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Learn Git & GitHub Concept.

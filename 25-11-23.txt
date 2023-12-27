@@ -1,0 +1,21 @@
+Work Status
+-----------------------------------------------
+-----------------------------------------------
+Date: 25/11/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time:10.14 am
+Logout Time:06.50 pm
+Actual Hrs:08.43 hr
+Productive Hrs:08:05 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Successfully Implemented git and git hub int the Visual Studio.
+-Created Each Seperated Repository for Asp.net and React.
+-Successfully Uploaded all Project of Asp.net and React to created repository with GUI as well as Git Bash. 
+-Created One Project in the Asp.net MVC.
+-Revised the concepts of hooks in the react.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continuing with Git and Git hub merg Conflict for the projetcs.

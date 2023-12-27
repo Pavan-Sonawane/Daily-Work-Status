@@ -1,0 +1,17 @@
+Work Status
+
+Date: 18/10/2023
+Name: Sonawane Pavan H
+Login Time: 10.41 am
+Logout Time: 07.21 pm
+Actual Hrs:  8.36 hr
+Productive Hrs:  8:13 hr
+-----------------------------------------
+Task Done
+
+-Test on React in which create a web page for product API.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with React

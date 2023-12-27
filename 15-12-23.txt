@@ -1,0 +1,21 @@
+Work Status
+-----------------------------------------------
+
+Date: 15/12/2023
+Name: Sonawane Pavan H.
+Login Time:9.30  am
+Logout Time:06:15 pm
+Actual Hrs:08.45 hr
+Productive Hrs:08:05 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Debugging Session on Backend. 
+-UI for Event in the ReactJs.
+-Project Completion and Documentation in Word.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Starting With SigalR.
+
+

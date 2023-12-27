@@ -1,0 +1,27 @@
+Work status
+
+Date: 28/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.03 am
+Logout Time: 7:05 pm
+Actual Hrs:  8.55 hr
+Productive Hrs:  8.18 hr
+-------------------------------------------------
+Task Done
+------------------ C# ---------------------------
+-LINQ 
+1)Method Syntax
+2)Query Syntax
+3)Lambada Expression
+4)ofType Operator
+5)OrderBy Operator
+6)where clause
+7)ThenBy
+8)Group By
+-EF Core
+1)Study about EF Core.
+2)Created databse and table using EF Core.
+-----------------------------------------
+Next day's Task:-
+-Study of EF-Core & Create Application.
+-Study The Working of SQL Server Management Studio.

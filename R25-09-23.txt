@@ -1,0 +1,19 @@
+Work Status
+
+Date: 25/09/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.20 am
+Logout Time:07.00 pm
+Actual Hrs: 08.05 hr
+Productive Hrs:08:45 hr
+-----------------------------------------
+Task Done
+-----------------React JS----------------
+-Study of Virtual DOM and Real DOM.
+-Installation of Node JS.
+-Introduction To Folder Strcture of React.
+-Deploying First React App.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Introduction To Componant In React.

@@ -1,0 +1,27 @@
+Work status
+
+Date: 04/07/2023
+Name: Pavan Harishchandra Sonawane
+Login Time: 9.30 am
+Logout Time: 6.30 pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.00 hr
+-----------------------------------------
+
+Task Done
+-Practice C# programs on the topic. 
+1)variables
+2)Condition Statements
+3)Looping Statements
+4)Function
+5)Array
+
+
+-Indroduction to DBMS
+
+-----------------------------------------
+next day's Task
+-Read the value of n & print pattern (like if n = 5 then print 1 4 9 16 25).
+-Read the value of n & add all the elements upto n.
+-Read the value of n & find the factorial of n.
+-Read the value of n & find the factorial of odd numbers.

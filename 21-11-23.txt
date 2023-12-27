@@ -1,0 +1,17 @@
+Work Status
+
+Date: 21/11/2023
+Name: Sonawane Pavan H.
+Login Time:10.07 am
+Logout Time:07.00 pm
+Actual Hrs:08.53 hr
+Productive Hrs:08:10 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Fetched the data from Product_Management API.
+-Implementing a UI to Product_Management API
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with implementing a UI to API.

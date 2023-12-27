@@ -1,0 +1,26 @@
+Work status
+
+Date: 25/07/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 09.49 am
+Logout Time: 06.50 pm
+Actual Hrs:  8.55 hr
+Productive Hrs:  8.30 hr
+-----------------------------------------
+
+
+Task Done
+C#
+-Design Pattern
+
+SQL
+-Select Query 
+-Creating  Employee Database
+ 
+CSS
+-Border Radius 
+-CSS Units
+-Grid	
+-----------------------------------------
+Next Day's Task
+-Create A product website using Grid which Having button on each Image  

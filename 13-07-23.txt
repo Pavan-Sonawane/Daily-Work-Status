@@ -1,0 +1,29 @@
+Work status
+
+Date: 13/07/2023
+Name: Sonawnae Pavan Harishchandra
+Login Time: 10.05 am
+Logout Time: 6.05 pm
+Actual Hrs:  9.13 hr
+Productive Hrs:  8.10 hr
+-----------------------------------------
+
+
+Task Done
+C#
+-Polumorphism
+-SOLID Principles
+-Create one program on SOLID
+
+HTML tags practice
+-<Media>
+-<audio>
+-<video>
+-<canvas>
+
+
+-----------------------------------------
+Next day's Task
+-Draw a flowchart for the pattern 1 -2 3 -4 5 ...... n.
+-Create normal form for product detail.
+-Create a structure in html.

@@ -1,0 +1,20 @@
+Work Status
+
+Date: 21/09/2023
+Name:Sonawane Pavan Harishchandra
+Login Time: 10.17 am
+Logout Time: 07.00 pm
+Actual Hrs:  8.43 hr
+Productive Hrs:  8:09 hr
+-----------------------------------------
+Task Done
+----------------- Asp.Net Core MVC ---------------------
+
+
+-Created MVC Model PopUp Project On Problem Statemenet which are given in privious Tests(User,Book,BorrowedBook)
+-Study about ES-6
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Study about ES-6

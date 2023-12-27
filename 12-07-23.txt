@@ -1,0 +1,33 @@
+Work status
+
+Date: 12/07/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 09.32 am
+Logout Time: 6.45 pm
+Actual Hrs:  9.13 hr
+Productive Hrs:  8.18 hr
+-----------------------------------------
+
+
+Task Done
+C#
+-Accosiation 
+-Composition
+-Inheritance
+
+HTML tags practice
+-<header>
+-<footer>
+-<aside>
+-<artical>
+-<section>
+
+CSS practice
+-Inline CSS
+-Internal CSS
+-External CSS
+-Margin
+-Padding
+-----------------------------------------
+Next day's Task
+-Draw a flowchart for fibonacci and odd numbers addition up to n.

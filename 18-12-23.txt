@@ -1,0 +1,22 @@
+Work Status
+-----------------------------------------------
+Date: 18/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.05  am
+Logout Time:06:50 pm
+Actual Hrs:08.45 hr
+Productive Hrs:08:03 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Document Evaluation.
+-Understanding the Concept of SignalR
+-Usecases of signalR.
+-How to implement SignalR Flow Understanding.
+-Uploaded The Attendece Management on GitHub With proper Documentation.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Starting With Implementation.
+
+

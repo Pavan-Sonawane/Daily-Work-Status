@@ -1,0 +1,17 @@
+Work Status
+
+Date: 04/10/2023
+Name:Sonawane Pavan Hrishchandra.
+Login Time: 10.14 am
+Logout Time: 06. pm
+Actual Hrs:  8.04 hr
+Productive Hrs:  8:28 hr
+-----------------------------------------
+Task Done
+----------------- Web API ----------------
+-Completed the tak of cascading in MVC project
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Continue with this project

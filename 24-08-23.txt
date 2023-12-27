@@ -1,0 +1,19 @@
+
+Work Status
+
+Date: 24/08/2023
+Name: Sonawane Pavan Harishchandra.
+Login Time: 10.09 am
+Logout Time: 7.01 pm
+Actual Hrs:  8.57 hr
+Productive Hrs:  8.06 hr
+-----------------------------------------
+Task Done
+-----------------c#---------------------
+-Perform Insert, Update,Delete,Edit operation in Onion architecture with Web Api on two tables.
+-Perform crud operation using postman.
+-Study about cors,swagger and static files in webapi then implement it.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Study about authentication and authorization.

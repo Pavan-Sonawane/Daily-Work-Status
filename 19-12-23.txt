@@ -1,0 +1,16 @@
+Work Status
+-----------------------------------------------
+
+Date: 15/12/2023
+Name: Sonawane Pavan H.
+Login Time:10.23  am
+Logout Time:07:00 pm
+Actual Hrs:08.45 hr
+Productive Hrs:08:05 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Successfully Implemented the SignalR for In MVC for one way Communication.
+-Started With Documentation and Tutorial of the Azure Devops.
+
+

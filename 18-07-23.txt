@@ -1,0 +1,19 @@
+Work status
+
+Date: 18/07/2023
+Name:Sonawane Pavan Harishchandra.
+Login Time: 10.04 am
+Logout Time: 6.50 pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.17 hr
+-----------------------------------------
+
+Task Done
+-Introduction to ASP.Net
+-Creating A Simple WebService
+
+
+			
+-----------------------------------------
+Next day's Task
+-Draw a Flowchart for this output 1 1 2 1 1 2 3 2 1 1 2 3 4 3 2 1

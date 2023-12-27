@@ -1,0 +1,21 @@
+
+
+Work status
+
+Date: 23/08/2023
+Name: Sonawane Pavan Harishchandra
+Login Time: 10.04 am
+Logout Time: 7.05 pm
+Actual Hrs:  9.00 hr
+Productive Hrs:  8.09 hr
+-----------------------------------------
+
+Task Done
+-----------------c#---------------------
+-Read Onion Architecture in Detail.
+-Perform Insert, Update,Delete,Edit operation in Onion architecture with Web Api.
+
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Read More About Postman

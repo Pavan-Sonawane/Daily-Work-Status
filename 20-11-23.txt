@@ -1,0 +1,16 @@
+Work Status
+
+Date: 20/11/2023
+Name: Sonawane Pavan H
+Login Time:09.58 am
+Logout Time:07.00 pm
+Actual Hrs:08.50 hr
+Productive Hrs:08:10 hr
+-----------------------------------------
+Task Done
+------------------------------------------
+-Create a WebAPI for Product management module.
+-----------------------------------------
+Next Day's Task
+-----------------------------------------
+-Implement a UI to Product Management Module Web API.
