@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------------------
+Work Status
+-------------------------------------------------------------------------------------------
+Date:03/01/2024
+Name: Sonawane Pavan
+Login Time:10:20 am
+Logout Time:07:05 pm
+Actual Hrs:08:30hr
+Productive Hrs:08:01 hr
+
+-------------------------------------------------------------------------------------------
+Task Done
+-------------------------------------------------------------------------------------------
+-Researched On 
+    -How Role Based Authentication Work Using Identity.
+    -How the Email Verification is Done Using Identity.
+    -What is Two factor Authentication and how it is done in Identity.
+    -Clone the project Form Git hub and understand the Functionality and code Flow.  
+-------------------------------------------------------------------------------------------
+Next Day Task
+-------------------------------------------------------------------------------------------
+- Trying to implement the Role based Authentication in the Employee Management Using Identity.
